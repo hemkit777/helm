@@ -30,6 +30,6 @@ annotations:
 
 dependencies:
 - name: nginx
-  version: "13.2.3"
+  version: "13.2.34"
   repository: https://charts.bitnami.com/bitnami
   condition: nginx.enabled
