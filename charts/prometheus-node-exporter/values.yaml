@@ -42,7 +42,7 @@ kubeRBACProxy:
   image:
     registry: quay.io
     repository: brancz/kube-rbac-proxy
-    tag: v0.14.0
+    tag: v0.14.3
     sha: ""
     pullPolicy: IfNotPresent
 
