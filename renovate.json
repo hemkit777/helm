@@ -3,5 +3,9 @@
   "extends": [
     "config:recommended"
   ],
-  "prConcurrentLimit": 5
+  "prConcurrentLimit": 5,
+  
+       "ignorePaths": [
+         "charts/alertmanager**"
+       ]  
 }
